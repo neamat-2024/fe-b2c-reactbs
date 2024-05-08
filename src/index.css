@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap');
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+/* ------font size-------- */
+.fs-14{
+    font-size: 14px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-18{
+    font-size: 18px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fs-32{
+    font-size: 32px;
+}
+.fs-36{
+    font-size: 36px;
+}
+.fs-42{
+    font-size: 42px;
+}
+.fs-62{
+    font-size: 62px;
+}
+.fs-80{
+    font-size: 80px;
+}
+
+/* ------font Weight-------- */
+.fw-400{
+    font-weight: 400;
+}
+.fw-600{
+    font-weight: 600;
+}
+.fw-700{
+    font-weight: 700;
+}
+.fw-800{
+    font-weight: 800;
+}
+
+/* ------Color-------- */
+
+body{
+    background-color:#FFFFFF ;
+}
+
+.primary-color{
+    color: #EB1B34 !important;
+}
+.pcolor{
+    color: #EB1B34;
+}
+.black-color{
+    color: black;
+}
+.grey-color{
+    color: #657491;
+}
+.grey-400{
+    color: #7C8DB0;
+}
+.grey-700{
+    color: #52556F;
+}
+.grey-900{
+    color: #27273F;
+}
+.light-black{
+    color: #6E7491;
+}
+.white-color{
+    color: #ffffff;
+}
+.primarylight{
+    color: #FDE8EB !important;
+}
+
+
+
+/* ------Button-------- */
+
+.primary-btn{
+    background-color: #EB1B34;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border: 1px solid #EB1B34;
+    border-radius: 4px;
+}
+.secondary-btn{
+    background-color: white;
+    border: none;
+    color: #36374A;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 24px;
+    border-radius: 4px;
+}
+
+.primary-btn:hover{
+    background-color: white;
+    color: #EB1B34;
+}

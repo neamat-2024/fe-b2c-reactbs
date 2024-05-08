@@ -1,0 +1,13 @@
+.ratings i{
+    
+    color:#cecece;
+    font-size:20px;
+}
+
+.rating-color{
+    color:#fbc634 !important;
+}
+.card{
+    background-color: white;
+    box-shadow: 0px 5px 80px 0px #0000000D;
+}
